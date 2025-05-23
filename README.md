@@ -2,6 +2,12 @@
 
 This project implements a Conditional Flow Matching (CFM) model using a U-Net architecture for face image super-resolution. It includes scripts for data preparation, training, and evaluation.
 
+## Sample Results
+
+<p align="center">
+  <img src="assets/results.png" alt="CFM-SR results" width="700"/>
+</p>
+
 ## Core Features
 
 * **Conditional Flow Matching (CFM):** For high-resolution image generation.
