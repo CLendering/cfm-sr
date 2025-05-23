@@ -1,0 +1,12 @@
+torch
+torchvision
+lpips
+torchmetrics
+pytorch-fid
+facenet-pytorch
+einops
+pandas
+seaborn
+matplotlib
+tqdm
+tensorboard
